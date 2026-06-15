@@ -1,0 +1,17 @@
+# Virtual Environments
+.venv/
+.venv-1/
+
+# Raw Dataset
+data/raw/
+data/processed/cleaned_zomato.csv
+data/processed/master_zomato.csv
+data/processed/analysis_zomato.csv
+
+# Large Models
+models/
+*.pkl
+
+# Python Cache
+__pycache__/
+.ipynb_checkpoints/
