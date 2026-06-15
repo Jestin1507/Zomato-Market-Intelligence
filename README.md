@@ -166,4 +166,4 @@ Analyzes cuisine demand and customer preferences.
 
 Recommends optimal locations for opening a new restaurant based on cuisine and budget.
 
-![Market Expansion Advisor](screenshots/market_expansion.png)
+![Market Expansion Advisor](screenshots/market_expansion_advisor.png)
