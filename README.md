@@ -1,5 +1,7 @@
 🍽️ Zomato Market Intelligence Platform
 
+Live Demo: https://zomato-market-intelligence-mccpyls2pcar3w6jbqpdei.streamlit.app/
+
 📌 Overview
 
 The Zomato Market Intelligence Platform is an end-to-end Data Science and Business Intelligence project developed using Python, Machine Learning, and Streamlit.
